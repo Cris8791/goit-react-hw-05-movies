@@ -1,0 +1,24 @@
+.castList,
+.reviewsList {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.castMember,
+.reviewItem {
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.castMember img,
+.reviewItem img {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.castMember p,
+.reviewItem p {
+  margin: 5px 0;
+}

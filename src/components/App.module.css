@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.navLinks {
+  padding: 20px;
+  background-color: #f0f0f0;
+  margin-bottom: 20px;
+  display: flex;
+  /* justify-content: center; */
+  gap: 10px;
+  padding-left: 30px;
+  font-size: large;
+  font-weight: 400;
+}
